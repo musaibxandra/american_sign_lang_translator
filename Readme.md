@@ -3,7 +3,7 @@
 Preview:
 
 
-![Alt text](images/Hello.png)
+![Alt text](images/hello.png)
 ![Alt text](images/thanks.png)
 ![Alt text](images/i_love_you.png)
 
