@@ -4,8 +4,6 @@ Preview:
 
 
 ![Alt text](images/hello.png)
-![Alt text](images/thanks.png)
-![Alt text](images/i_love_you.png)
 
 
 ### Project Architecture
@@ -39,3 +37,10 @@ Preview:
 
 
 ![alt text](images/lstm.png)
+
+
+### Result
+
+* Sentence Formation using LSTM networks
+
+![Alt text](images/i_love_you.png)
